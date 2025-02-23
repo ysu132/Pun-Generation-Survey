@@ -51,17 +51,18 @@ It contains recommended reading papers and dataset links.
 * Can visual language models resolve textual ambiguity with visual cues? Let visual puns tell you! [Dataset](https://arxiv.org/abs/2410.01023)
 
 ## Datasets
-* METAPHONOLOGY OF ENGLISH PARONOMASIC PUNS [Dataset](https://www.coli.uni-saarland.de/groups/BM/phonetics/icphs/ICPhS1991/12_ICPhS_1991_Vol_5/p12.5_130.pdf)
+* Paron - METAPHONOLOGY OF ENGLISH PARONOMASIC PUNS [Dataset](https://www.coli.uni-saarland.de/groups/BM/phonetics/icphs/ICPhS1991/12_ICPhS_1991_Vol_5/p12.5_130.pdf)
 * Paronomasic puns: Target recoverability towards automatic generation [Dataset](https://docs.lib.purdue.edu/dissertations/AAI3113812/)
-* Humor Recognition and Humor Anchor Extraction [Dataset](https://aclanthology.org/D15-1284/)
-* A computational model of linguistic humor in puns [Dataset](https://pmc.ncbi.nlm.nih.gov/articles/PMC5042108/)
-* Phonological Pun-derstanding [Dataset](https://m-mitchell.com/NAACL-2016/NAACL-HLT2016/pdf/N16-1079.pdf)
-* SemEval-2017 Task 7: Detection and Interpretation of English Puns [Dataset](https://aclanthology.org/S17-2005/)
+* Church - Wordplay in church marquees [Dataset](https://www.degruyter.com/document/doi/10.1515/HUMR.2011.012/pdf?srsltid=AfmBOopfde_ef45y0XqLsc4sx5Lef-uNcE_bcuQNTOzeJgv_IdLBtgp-)
+* Pun-Yang - Humor Recognition and Humor Anchor Extraction [Dataset](https://aclanthology.org/D15-1284/)
+* Pun-Kao - A computational model of linguistic humor in puns [Dataset](https://pmc.ncbi.nlm.nih.gov/articles/PMC5042108/)
+* Puns - Phonological Pun-derstanding [Dataset](https://m-mitchell.com/NAACL-2016/NAACL-HLT2016/pdf/N16-1079.pdf)
+* SemEval - SemEval-2017 Task 7: Detection and Interpretation of English Puns [Dataset](https://aclanthology.org/S17-2005/)
 * ExPUNations: Augmenting Puns with Keywords and Explanations [Dataset](https://aclanthology.org/2022.emnlp-main.304.pdf)
-* Context-Situated Pun Generation [Dataset](https://aclanthology.org/2022.emnlp-main.306/)
-* Are U a Joke Master? Pun Generation via Multi-Stage Curriculum Learning towards a Humor LLM [Dataset](https://aclanthology.org/2024.findings-acl.51/)
-* Creating a Lens of Chinese Culture: A Multimodal Dataset for Chinese Pun Rebus Art Understanding [Dataset](https://arxiv.org/abs/2406.10318)
-* Can visual language models resolve textual ambiguity with visual cues? Let visual puns tell you! [Dataset](https://arxiv.org/abs/2410.01023)
+* CUP - Context-Situated Pun Generation [Dataset](https://aclanthology.org/2022.emnlp-main.306/)
+* ChinesePun - Are U a Joke Master? Pun Generation via Multi-Stage Curriculum Learning towards a Humor LLM [Dataset](https://aclanthology.org/2024.findings-acl.51/)
+* Pun Rebus Art - Creating a Lens of Chinese Culture: A Multimodal Dataset for Chinese Pun Rebus Art Understanding [Dataset](https://arxiv.org/abs/2406.10318)
+* UNPIE - Can visual language models resolve textual ambiguity with visual cues? Let visual puns tell you! [Dataset](https://arxiv.org/abs/2410.01023)
 
 ## Evaluation
 #### Automatic Evaluation
