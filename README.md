@@ -45,3 +45,6 @@ It contains recommended reading papers and dataset links.
 ## Datasets
 * METAPHONOLOGY OF ENGLISH PARONOMASIC PUNS [Dataset](https://www.coli.uni-saarland.de/groups/BM/phonetics/icphs/ICPhS1991/12_ICPhS_1991_Vol_5/p12.5_130.pdf)
 * Paronomasic puns: Target recoverability towards automatic generation [Dataset](https://docs.lib.purdue.edu/dissertations/AAI3113812/)
+
+## Evaluation
+
