@@ -12,6 +12,9 @@ It contains recommended reading papers and dataset links.
 * Sarcasm and Humor Detection in Code-Mixed Hindi Data: A Survey [Paper](https://link.springer.com/chapter/10.1007/978-981-97-6588-1_34)
 * Computational humor recognition: a systematic literature review [Paper](https://link.springer.com/article/10.1007/s10462-024-11043-3)
 * Introducing Aspects of Creativity in Automatic Poetry Generation [Paper](https://arxiv.org/abs/2002.02511)
+* A Survey of Control Mechanisms for Creative Pattern Generation [Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.142658)
+* GAN Computers Generate Arts? A Survey on Visual Arts, Music, and Literary Text Generation using Generative Adversarial Network [Paper](https://arxiv.org/abs/2108.03857)
+* A Survey on Computational Metaphor Processing [Paper](https://dl.acm.org/doi/10.1145/3373265)
 ## Pun Generation Methods
 
 #### Traditional Models
