@@ -2,9 +2,22 @@
 
 This is reading list for pun generation survey.
 
-It contains recommended reading papers and dataset links.
+## Pun Categories
+#### Homophonic Puns
+Homophonic puns rely on the dual meanings of homophones, which are words that sound alike but have different meanings. <br/>
+Eg. Dentists don't like a hard day at the <ins>orifice</ins> (office).
+#### Heterographic Puns
+Heterographic puns emphasize on differences in spelling with the same pronunciation to achieve their rhetorical effect, which are also classified as homophonic puns in some studies. <br/>
+Eg. Life is a puzzle, look here for the missing <ins>peace</ins> (piece). 
+#### Homographic Puns
+Homographic puns exploit words spelled the same homographs but possess different meanings. <br/>
+Eg. Always trust a glue salesman. They tend to <ins>stick</ins> to their word. 
+#### Visual Puns
+Visual puns are a form of artistic expression that utilize images or visual elements to create double meanings. <br/>
+Eg. ![An example of visual pun from Wikipedia](https://en.wikipedia.org/wiki/Visual_pun#/media/File:Computer_mouse_trap.jpg)
 
 # Recommended Reading Papers
+It contains recommended reading papers and dataset links.
 ## Related Surveys
 * A Survey on Approaches to Computational Humor Generation [Paper](https://aclanthology.org/2020.latechclfl-1.4/)
 * Humor in Human-Computer Interaction: A Short Survey [Paper](https://www.researchgate.net/publication/320127779_Humor_in_Human-Computer_Interaction_A_Short_Survey)
