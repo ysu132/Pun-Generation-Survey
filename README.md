@@ -16,6 +16,11 @@ It contains recommended reading papers and dataset links.
 
 #### Traditional Models
 * An implemented model of punning riddles [Paper](https://arxiv.org/abs/cmp-lg/9406022)
+* Machine humour: An implemented model of puns [Paper](https://www2.hawaii.edu/~binsted/papers/Binstedthesis.pdf)
+* The Construction of a Pun Generator for Language Skills Development. [Paper](https://www.researchgate.net/publication/220356042_The_Construction_of_a_Pun_Generator_for_Language_Skills_Development)
+* Computational Humor: Automated Pun Generation [Paper](https://computationalcreativity.net/iccc20/papers/152-iccc20.pdf)
+* Computational Mechanisms for Pun Generation [Paper](https://aclanthology.org/W05-1614.pdf)
+* 
 
 #### Classic DNNs
 * A neural approach to pun generation [Paper](https://aclanthology.org/P18-1153/)
@@ -34,3 +39,5 @@ It contains recommended reading papers and dataset links.
 * "A good pun is its own reword": Can Large Language Models Understand Puns? [Paper](https://arxiv.org/abs/2404.13599)
 
 ## Datasets
+* METAPHONOLOGY OF ENGLISH PARONOMASIC PUNS [Dataset](https://www.coli.uni-saarland.de/groups/BM/phonetics/icphs/ICPhS1991/12_ICPhS_1991_Vol_5/p12.5_130.pdf)
+* Paronomasic puns: Target recoverability towards automatic generation [Dataset](https://docs.lib.purdue.edu/dissertations/AAI3113812/)
