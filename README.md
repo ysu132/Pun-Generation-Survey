@@ -14,7 +14,7 @@ Homographic puns exploit words spelled the same homographs but possess different
 Eg. Always trust a glue salesman. They tend to <ins>stick</ins> to their word. 
 #### Visual Puns
 Visual puns are a form of artistic expression that utilize images or visual elements to create double meanings. <br/>
-Eg. An visual example from [Wikipedia](https://en.wikipedia.org/wiki/Visual_pun)  <br/>
+Eg. An visual example from [Wikipedia](https://en.wikipedia.org/wiki/Visual_pun).  <br/>
 <img src="https://github.com/user-attachments/assets/c07a7554-d714-4f30-bcd5-36587ece8f87" height="240px" width="320px" />
 
 # Recommended Reading Papers
