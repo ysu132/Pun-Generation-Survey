@@ -20,7 +20,11 @@ It contains recommended reading papers and dataset links.
 * The Construction of a Pun Generator for Language Skills Development. [Paper](https://www.researchgate.net/publication/220356042_The_Construction_of_a_Pun_Generator_for_Language_Skills_Development)
 * Computational Humor: Automated Pun Generation [Paper](https://computationalcreativity.net/iccc20/papers/152-iccc20.pdf)
 * Computational Mechanisms for Pun Generation [Paper](https://aclanthology.org/W05-1614.pdf)
-* 
+* Humor Prevails! - Implementing a Joke Generator into a Conversational System [Paper](https://www.scilit.com/publications/0c04d0de6ba7efb2e22dc379fd27a4d0)
+* Rule-based Approaches to the Automatic Generation of Puns Based on Given Names in French [Paper](https://aclanthology.org/2025.chum-1.3.pdf)
+* Automatically Extracting Word Relationships as Templates for Pun Generation [Paper](https://aclanthology.org/W09-2004/)
+* GraphLaugh: A tool for the interactive generation of humorous puns [Paper](https://www.researchgate.net/publication/224088155_GraphLaugh_A_tool_for_the_interactive_generation_of_humorous_puns)
+* “Let Everything Turn Well in Your Wife”: Generation of Adult Humor Using Lexical Constraints [Paper](https://aclanthology.org/P13-2044/)
 
 #### Classic DNNs
 * A neural approach to pun generation [Paper](https://aclanthology.org/P18-1153/)
