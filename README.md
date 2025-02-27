@@ -1,4 +1,4 @@
-# Pun Generation Survey
+# A Survey of Pun Generation: Datasets, Evaluations and Methodologies
 
 This is reading list for pun generation survey.
 
