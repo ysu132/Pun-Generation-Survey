@@ -57,7 +57,7 @@ It contains recommended reading papers and dataset links.
 * “Barking up the Right Tree”, a GAN-Based Pun Generation Model through Semantic Pruning [Paper](https://aclanthology.org/2024.lrec-main.191/)
 * Are U a Joke Master? Pun Generation via Multi-Stage Curriculum Learning towards a Humor LLM [Paper](https://aclanthology.org/2024.findings-acl.51.pdf)
 * Homophonic Pun Generation in Code Mixed Hindi English [Paper](https://aclanthology.org/2025.chum-1.4.pdf)
-* "A good pun is its own reword": Can Large Language Models Understand Puns? [Paper](https://arxiv.org/abs/2404.13599)
+* "A good pun is its own reword": Can Large Language Models Understand Puns? [Paper](https://arxiv.org/abs/2404.13599) 2024
 
 #### Visual-Language Models
 * When Words and Images Play Together in a Multimodal Pun: From Creation to Translation [Paper](https://www.researchgate.net/publication/362693198_When_Words_and_Images_Play_Together_in_a_Multimodal_Pun_From_Creation_to_Translation)
