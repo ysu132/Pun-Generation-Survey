@@ -19,6 +19,7 @@ Eg. An visual example from [Wikipedia](https://en.wikipedia.org/wiki/Visual_pun)
 
 # Recommended Reading Papers
 It contains recommended reading papers and dataset links.
+<img src="https://github.com/ysu132/Pun-Generation-Survey/blob/main/img/surveytree.png" height="240px" width="320px" />
 ## Related Surveys
 * A Survey on Approaches to Computational Humor Generation [Paper](https://aclanthology.org/2020.latechclfl-1.4/)
 * Humor in Human-Computer Interaction: A Short Survey [Paper](https://www.researchgate.net/publication/320127779_Humor_in_Human-Computer_Interaction_A_Short_Survey)
