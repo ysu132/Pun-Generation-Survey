@@ -18,8 +18,8 @@ Eg. An visual example from [Wikipedia](https://en.wikipedia.org/wiki/Visual_pun)
 <img src="https://github.com/user-attachments/assets/c07a7554-d714-4f30-bcd5-36587ece8f87" height="240px" width="320px" />
 
 # Recommended Reading Papers
-It contains recommended reading papers and dataset links.
-<img src="https://github.com/ysu132/Pun-Generation-Survey/blob/main/img/surveytree.png" height="240px" width="320px" />
+It contains recommended reading papers and dataset links.  <br/>
+<img src="https://github.com/ysu132/Pun-Generation-Survey/blob/main/img/surveytree.png"/>
 ## Related Surveys
 * A Survey on Approaches to Computational Humor Generation [Paper](https://aclanthology.org/2020.latechclfl-1.4/)
 * Humor in Human-Computer Interaction: A Short Survey [Paper](https://www.researchgate.net/publication/320127779_Humor_in_Human-Computer_Interaction_A_Short_Survey)
